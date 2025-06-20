@@ -1,0 +1,5 @@
+<style>
+  #search-form-container {
+    display: none !important; /* !important は強制的に適用させるため */
+  }
+</style>
